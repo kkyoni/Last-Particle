@@ -2,13 +2,13 @@
 <h1 align="center" style="border-bottom: none !important; margin-bottom: 5px !important;"><a href="https://designrevision.com/downloads/shards-dashboard-lite-react/">Admin Penal Laravel</a></h1>
 
 <p align="center">
-<a href="#"><img src="https://github.com/kkyoni/Last-Particle/blob/main/Screen%20Short/Screenshot%20(55).png" width="250" /></a>
-<a href="#"><img src="https://github.com/kkyoni/Last-Particle/blob/main/Screen%20Short/Screenshot%20(56).png" width="250" /></a>
-<a href="#"><img src="https://github.com/kkyoni/Last-Particle/blob/main/Screen%20Short/Screenshot%20(57).png" width="250" /></a>
-<a href="#"><img src="https://github.com/kkyoni/Last-Particle/blob/main/Screen%20Short/Screenshot%20(58).png" width="250" /></a>
-<a href="#"><img src="https://github.com/kkyoni/Last-Particle/blob/main/Screen%20Short/Screenshot%20(59).png" width="250" /></a>
-<a href="#"><img src="https://github.com/kkyoni/Last-Particle/blob/main/Screen%20Short/Screenshot%20(61).png" width="250" /></a>
-<a href="#"><img src="https://github.com/kkyoni/Last-Particle/blob/main/Screen%20Short/Screenshot%20(62).png" width="250" /></a>
+<a href="#"><img src="https://github.com/kkyoni/Last-Particle/blob/main/Screen%20Short/Screenshot%20(55).png" width="500" /></a>
+<a href="#"><img src="https://github.com/kkyoni/Last-Particle/blob/main/Screen%20Short/Screenshot%20(56).png" width="500" /></a>
+<a href="#"><img src="https://github.com/kkyoni/Last-Particle/blob/main/Screen%20Short/Screenshot%20(57).png" width="500" /></a>
+<a href="#"><img src="https://github.com/kkyoni/Last-Particle/blob/main/Screen%20Short/Screenshot%20(58).png" width="500" /></a>
+<a href="#"><img src="https://github.com/kkyoni/Last-Particle/blob/main/Screen%20Short/Screenshot%20(59).png" width="500" /></a>
+<a href="#"><img src="https://github.com/kkyoni/Last-Particle/blob/main/Screen%20Short/Screenshot%20(61).png" width="500" /></a>
+<a href="#"><img src="https://github.com/kkyoni/Last-Particle/blob/main/Screen%20Short/Screenshot%20(62).png" width="500" /></a>
 </a>
 </p>
 <p align="center">
