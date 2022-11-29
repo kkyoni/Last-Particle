@@ -1,3 +1,34 @@
+
+<h1 align="center" style="border-bottom: none !important; margin-bottom: 5px !important;"><a href="https://designrevision.com/downloads/shards-dashboard-lite-react/">Admin Penal Laravel</a></h1>
+
+<p align="center">
+<a href="https://designrevision.com/downloads/shards-dashboard-lite-react/">
+<img src="assets/preview.png" width="250" />
+</a>
+</p>
+
+<h1 align="center" style="border-bottom: none !important; margin-bottom: 5px !important;"><a href="https://designrevision.com/downloads/shards-dashboard-lite-react/">Shards Dashboard React</a></h1>
+<p align="center">
+<a href="#"><img src="https://github.com/kkyoni/Last-Particle/blob/main/Screen%20Short/Screenshot%20(55).png" width="250" /></a>
+<a href="#"><img src="https://github.com/kkyoni/Last-Particle/blob/main/Screen%20Short/Screenshot%20(56).png" width="250" /></a>
+<a href="#"><img src="https://github.com/kkyoni/Last-Particle/blob/main/Screen%20Short/Screenshot%20(57).png" width="250" /></a>
+<a href="#"><img src="https://github.com/kkyoni/Last-Particle/blob/main/Screen%20Short/Screenshot%20(58).png" width="250" /></a>
+<a href="#"><img src="https://github.com/kkyoni/Last-Particle/blob/main/Screen%20Short/Screenshot%20(59).png" width="250" /></a>
+<a href="#"><img src="https://github.com/kkyoni/Last-Particle/blob/main/Screen%20Short/Screenshot%20(61).png" width="250" /></a>
+<a href="#"><img src="https://github.com/kkyoni/Last-Particle/blob/main/Screen%20Short/Screenshot%20(62).png" width="250" /></a>
+</a>
+</p>
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg" />
+  </a>
+  <a href="https://twitter.com/designrevision">
+    <img src="https://img.shields.io/twitter/follow/DesignRevision.svg?style=social&label=Follow" />
+  </a>
+</p>
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
@@ -35,9 +66,9 @@
 
 ## Define .env Gmail User Name And Password
 
-MAIL_MAILER=
-MAIL_HOST=
-MAIL_PORT=
-MAIL_USERNAME=
-MAIL_PASSWORD=
-MAIL_ENCRYPTION=
+- MAIL_MAILER=
+- MAIL_HOST=
+- MAIL_PORT=
+- MAIL_USERNAME=
+- MAIL_PASSWORD=
+- MAIL_ENCRYPTION=
